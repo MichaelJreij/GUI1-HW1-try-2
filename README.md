@@ -1,4 +1,1 @@
-# GUI1-HW1-try-2
-
-This page was created for the screencast Introduction to Github.
-
+First time trying HTML, I made this very minimal webpage to introduce myself and test out uploading to GitHub.
